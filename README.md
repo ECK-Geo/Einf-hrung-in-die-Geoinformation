@@ -1,2 +1,2 @@
-# Einf-hrung-in-die-Geoinformation
+# Einfuehrung-in-die-Geoinformation
 Work in progress
