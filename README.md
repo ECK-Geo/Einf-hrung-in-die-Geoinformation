@@ -1,6 +1,6 @@
 # Einführung Geoinformation
 ## (08.10.2026)
-Berlin Lebensstandard Karte
+Berlin Sozialstruktur Karte
 
 ![enter image description here](https://github.com/ECK-Geo/Einf-hrung-in-die-Geoinformation/blob/main/Berlin%202025.png?raw=true)
 
